@@ -1,16 +1,13 @@
-## Hi there 👋
+# Precision Handy Repairs
 
-<!--
-**precisionhandyrepairs/precisionhandyrepairs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello — I'm Tiwayne Defils, a handyman with Precision Handy Repairs in San Jose, California.
 
-Here are some ideas to get you started:
+We help homes and small businesses across San Jose and the wider Bay Area with careful, reliable home improvements, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Handyman repairs and general home maintenance
+- Interior painting
+- Drywall repair and patching
+- Carpentry and small woodwork
+- Fixture fitting, shelving and odd jobs around the home
+
+If you are looking for a handyman in the wider area, you can find out more about our [handyman beverly hills](https://precisionhandyrepairs.com/locations/beverly-hills) services.
